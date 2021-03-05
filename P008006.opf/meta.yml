@@ -1,15 +1,16 @@
-id: opecha:P008006
+id: P008006
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG15822
   title: སྤྱོད་འཇུག་རྩ་འགྲེལ་ཆེན་མོ། ༼གློག་ཀླད་པར་མ།༽
-  volume:
+  author: ''
+  volumes:
     732fec13102c4fc7998606073f2ab554:
       image_group_id: I1KG15824
       title: Volume 1 of spyod 'jug rtsa 'grel chen mo/ (glog klad par ma/)
       volume_number: 1
       total_pages: 634
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྤྱོད་འཇུག་རྩ་འགྲེལ་ཆེན་མོ། ༼གློག་ཀླད་པར་མ།༽
   author: ''
